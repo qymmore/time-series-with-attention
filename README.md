@@ -2,8 +2,7 @@
 
 This project is an extension of the work done by Yeh et al. (2023). We explore the effectiveness of using alternative backbone architectures for creating a multi-domain foundation model for time series forecasting (WaveNet and TCNN) and whether architectures with attention mechanisms perform better than their non-attention counterparts.
 
-<i>© 2024 Sarah Quayyum & Sonal Bihani <br>
-rquayyum@uwaterloo.ca <br>
+<i>© 2024 Sarah Q. & Sonal B.<br>
 University of Waterloo
 </i>
 
